@@ -1,24 +1,24 @@
-	function cacher1 (Formation) {
+	function cacher_Formation (Formation) {
 	$("#Formation").hide();
 	}
-	function afficher1 (Formation) {
+	function afficher_Formation (Formation) {
 	$("#Formation").show();
 	}
-	function cacher2 (Experience_Pro) {
+	function cacher_ExperiencePro (Experience_Pro) {
 	$("#Experience_Pro").hide();
 	}
-	function afficher2 (Experience_Pro) {
+	function afficher_ExperiencePro (Experience_Pro) {
 	$("#Experience_Pro").show();
 	}
-	function cacher3 (Compétence) {
+	function cacher_Compétence (Compétence) {
 	$("#Compétence").hide();
 	}
-	function afficher3 (Compétence) {
+	function afficher_Compétence (Compétence) {
 	$("#Compétence").show();
 	}
-	function cacher4 (Linguistiques) {
+	function cacher_Linguistiques (Linguistiques) {
 	$("#Linguistiques").hide();
 	}
-	function afficher4 (Linguistiques) {
+	function afficher_Linguistiques (Linguistiques) {
 	$("#Linguistiques").show();
 	}
